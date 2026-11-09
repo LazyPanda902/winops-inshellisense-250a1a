@@ -1,0 +1,11 @@
+{
+  "source_repo": "microsoft/inshellisense",
+  "source_reference_url": "https://github.com/microsoft/inshellisense",
+  "source_license": "MIT",
+  "use_mode": "reference-only",
+  "copy_code_allowed": false,
+  "project_angle": "windows-admin-automation",
+  "week": "2026-W46",
+  "generator_version": 2,
+  "statement": "Problem-space research only. No source code copied, vendored, or translated."
+}
